@@ -204,6 +204,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Susankya Tech Pvt. Ltd.](https://susankya.com/) | Kupondole, Lalitpur | Software company with highly experienced and like-minded experts focusing on real-world problems, implementing the best solutions to simplify day-to-day life
 - [Sustainable Solutions](http://sussol.net/) | Pulchowk, Lalitpur | mSupply and MoneyWorks
 - [Swift Technology](https://www.swifttech.com.np/) | Panipokhari, Kathmandu | Leading FinTech company established in 2007, expertise in digital financial services, Mobile Banking, Internet Banking, Remittance System, Mobile wallet and customized software development
+- [Synergy Tech Software](https://www.synergytechsoft.com/web/) | Pulchowk, Lalitpur | FinTech Company  based for Class "D" banks and Co-Operative finances, with MFin is a Management Information System for Micro Finance Institutions (Laghu Bitta Sanstha). It is most widely used MIS application among the Mirco financial institutions in Nepal.
 - [Tech Bizz Pvt. Ltd.](http://www.techbizznepal.com/) | Maitidevi, Kathmandu | Mobile Apps, Graphics Design, and Web Development Services
 - [Tech Kunja Pvt. Ltd.](http://techkunja.com.np/) | Patan, Lalitpur | Web design, web development, AI, graphics design and consulting services
 - [Tech One Global Pvt. Ltd.](https://www.techoneglobal.com/) | Naxal, Kathmandu | Technology solutions to maximize your ROI and secure your organization
